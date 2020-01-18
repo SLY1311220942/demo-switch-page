@@ -1,6 +1,7 @@
 package com.sly.demo.switchpage;
 
-import org.junit.Test;
+
+import org.junit.jupiter.api.Test;
 
 //@SpringBootTest
 class ApplicationTest {
